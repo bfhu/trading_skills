@@ -187,6 +187,7 @@ The MCP server is a lightweight alternative for use with Claude Desktop (includi
 | `scanner-bullish` | Scan symbols for bullish trends (SMA, RSI, MACD, ADX) |
 | `scanner-pmcc` | Scan for PMCC suitability (delta, liquidity, spread, IV, yield) |
 | `whale-hunting` | Detect institutional option whale activity for an underlying (requires Massive API key) |
+| `equity-watchlist-table` | One table mixing price, 52-week range, P/E, forward P/E, RSI, daily/weekly MACD and analyst ratings (Robinhood MCP); includes a "next Mag 7" large-cap screen |
 
 ### Portfolio (requires TWS/Gateway)
 

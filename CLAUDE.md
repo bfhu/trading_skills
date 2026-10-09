@@ -41,7 +41,7 @@ Use available skills to fetch real-time data and perform analysis:
 
 **Analysis**: `technical-analysis`, `greeks`, `spread-analysis`, `risk-assessment`
 
-**Scanners**: `scanner-bullish`, `scanner-pmcc`
+**Scanners**: `scanner-bullish`, `scanner-pmcc`, `equity-watchlist-table`
 
 **Portfolio** (requires TWS/Gateway): `ib-portfolio`, `ib-account`, `ib-find-short-roll`, `ib-portfolio-action-report`
 
